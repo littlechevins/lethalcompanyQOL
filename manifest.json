@@ -1,7 +1,7 @@
 {
     "name": "kevkevQOL",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/littlechevins/lethalcompanyQOL",
     "description": "kevs QOL modpack for friends and lewis",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
